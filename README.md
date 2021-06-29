@@ -17,9 +17,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
-<br/>
-<br/>
-
 [![osm1892's GitHub stats](https://github-readme-stats.vercel.app/api?username=osm1892&count_private=true&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osm1892&repo=CultureFrameBigdataResearch)](https://github.com/osm1892/CultureFrameBigdataResearch)
