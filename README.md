@@ -3,7 +3,7 @@
 
 ## History
 - 대진고등학교 (~2018.02)
-- 성결대학교 컴퓨터공학과 (2018.03~)
+- 성결대학교 컴퓨터공학과 (2018.03~2024.02)
 
 ## What I do?
 </br>
@@ -20,6 +20,3 @@
 [![osm1892's GitHub stats](https://github-readme-stats.vercel.app/api?username=osm1892&count_private=true&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=osm1892&repo=CultureFrameBigdataResearch)](https://github.com/osm1892/CultureFrameBigdataResearch)
-
-
-웹 프로젝트를 진행중이며, 알고리즘 공부를 하고 있습니다.
